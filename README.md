@@ -1,1 +1,1 @@
-# codeseoul-bootcamp-demo
+codeSeoul demo project
